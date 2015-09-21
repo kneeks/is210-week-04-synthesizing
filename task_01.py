@@ -56,7 +56,7 @@ def celsius_to_kelvin(degrees):
     return kelvin
 
 
-def farenheit_to_kelvin(degrees):
+def fahrenheit_to_kelvin(degrees):
     """
     This function takes the conversion of degrees farenheit to kelvin
 
